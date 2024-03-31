@@ -8,11 +8,11 @@ Spicy Tadka is a food exploration app.
 2. `npm i` to install all the dependencies.
 3. `npm start`
 
-Homepage
+<!-- Homepage
 <kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495619/foodify/home_rdikc3.png?raw=true "HomePage")</kbd>
 
 Menu
 <kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495618/foodify/menu_ibpjha.png?raw=true "Menu")</kbd>
 
 Cart
-<kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495618/foodify/cart_lio0de.png?raw=true "Cart")</kbd>
+<kbd>![Alt text](https://res.cloudinary.com/dwwtffefs/image/upload/v1677495618/foodify/cart_lio0de.png?raw=true "Cart")</kbd> -->
