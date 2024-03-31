@@ -1,6 +1,6 @@
-# Spicy Tadka Food Ordering App
+# Foodify Food Ordering App
 
-Spicy Tadka is a food exploration app.
+Foodify is a food exploration app.
 
 ## Steps to run it on your system
 
