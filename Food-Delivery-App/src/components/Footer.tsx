@@ -10,7 +10,7 @@ const Footer = () => {
         className="hover:text-gray-900 hover:font-medium"
         target="_blank"
       >
-        Yash Garg
+        Harsh
       </a>
     </p>
   );
